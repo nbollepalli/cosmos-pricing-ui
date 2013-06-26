@@ -1,0 +1,73 @@
+#
+# Copyright (c) 2013 by PROS, Inc.  All Rights Reserved.
+# This software is the confidential and proprietary information of
+# PROS, Inc. ("Confidential Information").
+# You shall not disclose such Confidential Information and shall use it
+# only in accordance with the terms of the license agreement you entered
+# into with PROS.
+#
+
+#
+# Ignores Mac .DS_Store
+#
+.DS_Store
+
+#
+# Ignores appropriate to Eclipse.
+#
+*.prefs
+*.project
+*.classpath
+.settings/
+target-eclipse/
+
+#
+# Ignores appropriate to Maven
+#
+target/
+
+#
+# Ignores for jEdit (auto-backup prefix has been set to '~' in this case)
+#
+*~
+*.marks
+
+#
+# Ignores for vim
+#
+*.sw*
+
+#
+# Ignores Grails plugin directories
+#
+app/plugins/
+
+#
+# Ignores for the grunt build
+#
+ui/dist
+ui/tmp
+ui/.grunt
+ui/_SpecRunner.html
+
+# Ignores Node Package Manager
+ui/node_modules
+
+#
+# Ignores the compiled js
+#
+ui/app
+ui/test/specs
+
+#
+# Ignores for log files Grails puts outside 'target'
+#
+*.log
+
+#
+# Ignore the local Gradle script cache
+/.gradle
+
+# Ignores merge backup files
+#
+*.bak
