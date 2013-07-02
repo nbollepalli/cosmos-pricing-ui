@@ -1,0 +1,56 @@
+{
+    "success": true,
+    "pricingDecisions": [
+    	{
+    		"uuid":"067e6162-3b6f-4ae2-a171-2470b63dff02",
+            "type":"Price",
+            "value":1.0,
+            "currency":null,
+            "uom":null,
+            "start":null,
+            "end":null,
+            "key":
+                {
+                    "Product":"SKU002"
+                },
+            "createdBy":null,
+            "updatedBy":null,
+            "createdAt":null,
+            "updatedAt":null
+    	},
+    	{
+    		"uuid":"067e6162-3b6f-4ae2-a171-2470b63dff01",
+            "type":"Price",
+            "value":1.0,
+            "currency":null,
+            "uom":null,
+            "start":null,
+            "end":null,
+            "key":
+                {
+                    "Product":"SKU001"
+                },
+            "createdBy":null,
+            "updatedBy":null,
+            "createdAt":null,
+            "updatedAt":null
+    	},
+    	{
+    		"uuid":"067e6162-3b6f-4ae2-a171-2470b63dff03",
+            "type":"Price",
+            "value":1.0,
+            "currency":null,
+            "uom":null,
+            "start":null,
+            "end":null,
+            "key":
+                {
+                    "Product":"SKU003"
+                },
+            "createdBy":null,
+            "updatedBy":null,
+            "createdAt":null,
+            "updatedAt":null
+    	}
+    ]   
+}
